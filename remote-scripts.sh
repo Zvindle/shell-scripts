@@ -10,7 +10,7 @@ else
     echo "    invalid argument $1"
     echo ""
 cat << EOF
-    usage: remote_scripts [shutdown|reboot|youtube|soundcloud]
+    usage: remote-scripts [shutdown|reboot|youtube|soundcloud]
 
     shutdown - runs 'shutdown now'
     reboot - runs 'reboot'
